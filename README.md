@@ -81,7 +81,7 @@ The project follows several Clean Code principles:
 
 1. Open the project in IntelliJ IDEA.
 2. Check that all files are in the correct packages.
-3. Open `Main.java`.
+3. Open `src/Main.java`.
 4. Run the `main()` method.
 
 ## Program Output
